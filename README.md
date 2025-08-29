@@ -14,12 +14,11 @@ Key features of this model:
 
 ##  Model Architecture
 
-The core of the model architecture is based on an attention mechanism enhanced with an external memory module, allowing it to retain long-term molecular structure dependencies. The architecture includes:
+The core of the model architecture is based on an attention mechanism enhanced with an external memory module, allowing it to retain long-term molecular structure dependencies
 
-- Encoder-Decoder structure
-- Self-attention layers
-- Memory interaction modules (read/write mechanisms)
-- SELFIES token embeddings
+![Architecture](res/architecture.png)
+
+
 
 ##  Datasets
 
